@@ -1,0 +1,12 @@
+body {
+  font-family: "Noto Sans", sans-serif !important;
+}
+.sub-div {
+  width: 280px !important;
+  padding: 20px 0px 0px 0px !important;
+}
+.main-content{
+  background-color: #FBFBFB;
+  min-height: calc(100vh - header-height - footer-height);
+  margin-bottom: 40px;
+}

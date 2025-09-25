@@ -1,0 +1,14 @@
+.custom-btn {
+  border: 1px solid black !important;
+  padding: 2px 8px !important;
+  border-radius: 0 !important;
+  width: 280px !important;
+  height: 48px !important;
+  background-color: #3C3C3C !important;
+  color: white !important;
+}
+
+.custom-btn:hover {
+  background-color: rgb(141, 133, 133) !important;
+  color: #ffffff !important;
+}

@@ -1,0 +1,25 @@
+.footer-container {
+  padding: 20px 0;
+  background-color: #FBFBFB; 
+}
+
+.footer-mail,
+.copyright {
+  margin: 0;
+   font-size: 13px;
+  font-weight: 700;
+  color: #3d3d3d;
+}
+
+.footer-mail {
+   font-size: 13px;
+  font-weight: 700;
+  color: #3d3d3d;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+

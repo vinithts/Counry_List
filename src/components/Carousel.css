@@ -1,0 +1,36 @@
+.carousel-indicators .dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: none;
+  margin: 0 4px;
+  background-color: white;
+  cursor: pointer;
+}
+.carousel-indicators .dot.active-dot {
+  background-color: black;
+}
+.btn-carosuel {
+  cursor: pointer;
+  padding:0px 10px 0px 0px;
+}
+.btn-carosuel-1 {
+  cursor: pointer;
+  padding:0px 0px 0px 10px;
+}
+.custom-carosule {
+  border: 2px solid #3D3D3D !important;
+  margin-top: 40px !important;
+  background-color: #f0f0f0 !important;
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  height: 498px;
+  justify-content: center !important;
+}
+.carousel-item {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  padding:20px;
+}
